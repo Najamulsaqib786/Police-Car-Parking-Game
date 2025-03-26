@@ -32,7 +32,7 @@ As the **Indie Game Developer**, I handled:
 ## 📜 About the Development
 - Built using **Unity Engine**
 - Optimized for **Android devices**
-- Developed as part of my work at **[Company Name]**
+- Developed as part of my work at **Cooperative Tech Pvt Ltd**
 - 3D assets and UI provided by the designer and 3D artist
 
 ---
